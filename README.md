@@ -42,5 +42,6 @@ https://datahack.analyticsvidhya.com/contest/job-a-thon-february-2022/
 | views | Total views of the videos present in the particular category |
 | engagement\_score | Engagement score of the video for a user |
 
-
+## Evaluation Metric:
+The evaluation metric for this competition is r2_score.
 
